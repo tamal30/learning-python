@@ -1,2 +1,2 @@
 # learning-python
-blah blah blah
+We will be following an Udemy course to learn
